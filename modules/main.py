@@ -17,9 +17,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-"""
-
-    Aufgabe 3.3: Es handelt sich um eine PNG Bild-Datei
-
-"""
